@@ -14,3 +14,5 @@ This is a guide to host a static website on AWS S3 with CloudFront, Route 53 and
 6. Github Account For Github Actions
 
 # Project Architecture
+
+![Project Architecture](/Architecture/Project.jpeg) 
